@@ -70,7 +70,6 @@ By Shiwani Joshi — Cybersecurity Certificate coursework, Georgian College
 - Residual risk
 - Transfer
 - Cyber insurance
-—
 ## 8. Intrusion Detection & Monitoring Plan
 - Objectives: identify unauthorized access, detect abnormal behavior, prevent data exfiltration
 - Monitoring use cases: multiple failed logins, privilege escalation events, large data transfers, suspicious IP activity
