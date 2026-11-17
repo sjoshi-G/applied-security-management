@@ -18,7 +18,7 @@ The program is aligned with NIST CSF, ISO/IEC 27001, and OWASP guidance.
 - **CVE-based vulnerability management** — prioritization using real CVEs (Log4Shell CVE-2021-44228, CVE-2023-23397, Spring4Shell CVE-2022-22965) with patch SLAs by severity
 - **Phased roadmap (Q1–Q4) and metrics:** MTTD, MTTR, MFA adoption rate, patch compliance rate, incident counts
 ## Files in this repo
-security-management-program-report.md — the full report in markdown
-Report.docx — the full report document
+- security-management-program-report.md — the full report in markdown
+- Report.docx — the full report document
 ## Skills demonstrated
 Risk assessment (TVA), security governance, access control design (MFA, RBAC), SIEM monitoring use cases, incident response planning, vulnerability management and CVE prioritization, security metrics (KPI/KRI).
